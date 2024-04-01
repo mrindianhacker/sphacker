@@ -1,4 +1,4 @@
- // Java program to implement
+// Java program to implement
 // a Simple Registration Form
 // using Java Swing
 
@@ -257,6 +257,7 @@ class MyFrame
 	}
 }
 
+// Driver Code
 class Registration {
 
 	public static void main(String[] args) throws Exception
